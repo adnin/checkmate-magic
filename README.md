@@ -101,7 +101,6 @@ A typical run goes through this loop:
 
 ## ✨ Features
 
-- Pixel-art **AAA-inspired** visuals
 - Chess-themed **piece abilities**
 - Card-based **upgrade system**:
   - Weapon buffs
